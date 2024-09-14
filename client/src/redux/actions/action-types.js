@@ -1,9 +1,0 @@
-export const GET_ALL_DOGS = 'GET_ALL_DOGS';
-//export const GET_DOG_BY_ID = 'GET_DOG_BY_ID';
-export const GET_DOG_BY_NAME = 'GET_DOG_BY_NAME';
-export const GET_TEMPERAMENTS = 'GET_TEMPERAMENTS';
-export const TEMP_ALL_NAMES = 'TEMP_ALL_NAMES';
-export  const NAME_BY_ORIGIN = 'NAME_BY_ORIGIN';
-export const ALPHABETIC_ORDER = 'ALPHABETIC_ORDER';
-export const ORDER_BY_WEIGHT = 'ORDER_BY_WEIGHT';
-export const POST_DOG = 'POST_DOG';
